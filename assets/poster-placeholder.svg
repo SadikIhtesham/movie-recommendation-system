@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750">
+  <rect width="500" height="750" fill="#1b1f27"/>
+  <rect x="35" y="35" width="430" height="680" rx="18" fill="none" stroke="#4b5563" stroke-width="4"/>
+  <circle cx="250" cy="310" r="78" fill="#e50914"/>
+  <path d="M230 265 L230 355 L300 310 Z" fill="#ffffff"/>
+  <text x="250" y="450" fill="#f9fafb" font-family="Arial, sans-serif" font-size="30" text-anchor="middle">Poster unavailable</text>
+  <text x="250" y="493" fill="#9ca3af" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Movie Recommender</text>
+</svg>
